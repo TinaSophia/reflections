@@ -1,0 +1,12 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository the .git file is created. This file will hold all
+meta data associated to the history of the repository. Command to use: git init
+
+2. How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Files are no longer available for changes once they are added to the staging area.
+The staging area is a place to hold files until I am ready to commit them.
+The staging are only holds files to be committed.
+The working directory includes all files associated to the project tracked and
+non-tracked. Here I am actively making changes.
+The repository holds the history of all commits.
