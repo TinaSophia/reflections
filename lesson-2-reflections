@@ -22,3 +22,8 @@ A branch can hold features of the program that are experimental. I am not sure
 if they should become part of the program. Testing different ideas.
 The features can be worked on separately without cluttering the main line of
 development. Branches help separate and organize the development of a project.
+
+5. How do the diagrams help you visualize the branch structure?
+A diagram helps locate all branches and their positions with respect to each other.
+I can easily see how the branches are connected and what the parent structure
+looks like. 
