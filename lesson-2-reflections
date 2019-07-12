@@ -33,4 +33,11 @@ looks like.
  The merge commit combines the features of both branches and only one line of
  development remains. The diagram shows a split and two different lines of code
  development at the parent where the branch is created and the lines come together
- again at the merge commit. 
+ again at the merge commit.
+
+ 7. What are the pros and cons of Git’s automatic merging vs. always doing
+ merges manually?
+ In merging manually I always have full control of what is merged. It might be
+ tedious and slow. Automatic merging is fast even with a merge conflict git will
+ indicates all lines that were changed in both versions and shows the parent status.
+ as well. I can choose the final code as I wish and commit.
