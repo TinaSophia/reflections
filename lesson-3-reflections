@@ -4,5 +4,18 @@ when using a different computer. Other people can look at the code
 and give suggestions or collaborate and contribute to the project.
 
 2. Why might you want to always pull changes manually rather than having Git
- automatically stay up-to-date with your remote repository?
- This allows more control over what is published on GitHub. 
+automatically stay up-to-date with your remote repository?
+This allows more control over what is published on GitHub.
+
+3.Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+A clone is an identical copy of a project copied either from a remote location
+or the local computer and saved to a different location. The command is git clone <URL>.
+A fork is similar to a clone, but only applies to making a clone of a GitHub
+repository to you own GitHub account. This is done if you want to develop
+the project further on your own. Your development from this point on is independent
+of the original project. There is an acknowledgement/link to the original owner.
+A branch refers to a separate line of code development within a version controlled
+project. It is mostly used to explore experimental changes to the main line of
+program development or holds collaborator contributions until a decision is made
+to include or dismiss the changes. 
