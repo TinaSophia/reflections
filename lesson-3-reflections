@@ -23,4 +23,12 @@ to include or dismiss the changes.
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 You have access to the status/version of the remote even if not connected to
-the internet. 
+the internet.
+
+5. How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+Without Git or GitHub I would exchange versions of my program via email or upload
+to a shared drive. It would be more difficult to track each of the changes made
+by collaborators and keep a source copy save from accidental introduction of errors.
+I would have to transfer changes from contributors manually to my master copy to keep
+control of the project. Using GitHub requires knowledge of the use and access.
