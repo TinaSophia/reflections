@@ -32,3 +32,11 @@ to a shared drive. It would be more difficult to track each of the changes made
 by collaborators and keep a source copy save from accidental introduction of errors.
 I would have to transfer changes from contributors manually to my master copy to keep
 control of the project. Using GitHub requires knowledge of the use and access.
+
+6. When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+A separate branch allows changes or new features to be discussed and further
+developed without affecting the status of the master. It can go through it's own
+development and discussion cycle until it is either deleted or accepted and merged
+into the master. If working on a project development on my own it may be more
+efficient to push/pull the master as it is a more efficient procedure.
